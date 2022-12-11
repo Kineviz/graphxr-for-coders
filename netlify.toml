@@ -8,7 +8,7 @@ LANDING_BUTTON = "Get started"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Create interactive knowledge graph visualizations with GraphXR, Grove, and GraphXR API."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "Intro"
+LANDING_PAGE = "GraphXR For Coders/Intro"
 # (Optional) Site title on landing page
 LANDING_TITLE = "GraphXR For Coders"
 PYTHON_VERSION = "3.8"
