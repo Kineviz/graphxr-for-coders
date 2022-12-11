@@ -1,4 +1,4 @@
-all: deploy
+deploy: md commit push
 
 md:
 	cp -R "/Users/admin/Library/Mobile Documents/iCloud~md~obsidian/Documents/GraphXR For Coders/." .
@@ -9,5 +9,3 @@ commit:
 
 push:
 	git push -u origin main
-
-deploy: copy-markdown commit push
