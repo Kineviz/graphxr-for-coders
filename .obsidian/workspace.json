@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Get Started.md",
+                "file": "Intro.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Get Started.md",
+                "file": "Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Get Started.md",
+                "file": "Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Get Started.md"
+                "file": "Intro.md"
               }
             }
           }
@@ -139,6 +139,6 @@
   "active": "8bc9425cc4481b22",
   "lastOpenFiles": [
     "Grove/UX/Buttons.md",
-    "Get Started.md"
+    "Intro.md"
   ]
 }
