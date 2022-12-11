@@ -1,5 +1,0 @@
-- Quickly create UX
-	- [[Buttons]]
-- Automate the GraphXR data model, execute layouts, transforms, algorithms, and more:
-	- [[Import GraphXR API]]
-	- [[Save the graph to a file in Grove]]
