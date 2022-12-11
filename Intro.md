@@ -1,1 +1,0 @@
-GraphXR ([[What is GraphXR?]]) provides a coder friendly API, called [[GraphXR API]] which makes it easier to work with data, layouts, transforms, and algorithms. GraphXR bundles 🌳 [[Grove]], a JavaScript playground suitable for rapidly developing custom applications with GraphXR and GraphXR API.
