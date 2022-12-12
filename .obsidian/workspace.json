@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grove/UX/Show a toast.md",
+                "file": "Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grove/UX/Show a toast.md",
+                "file": "Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grove/UX/Show a toast.md",
+                "file": "Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grove/UX/Show a toast.md"
+                "file": "Intro.md"
               }
             }
           }
@@ -152,14 +152,14 @@
   "active": "f197463d537e4a4e",
   "lastOpenFiles": [
     "graphxr-api/Add Nodes.md",
+    "Intro.md",
+    "Grove/Save the graph to a file in Grove.md",
+    "GraphXR/What is GraphXR?.md",
+    "Grove/UX/Show a toast.md",
     "graphxr-api/Graph Model.md",
     "graphxr-api/Color Nodes By Property.md",
     "Grove/UX/Buttons.md",
     "graphxr-api/Centrality.md",
-    "Grove/Import GraphXR API.md",
-    "graphxr-api/GraphXR API.md",
-    "Grove/Grove.md",
-    "Grove/Save the graph to a file in Grove.md",
-    "Grove/UX/Show a toast.md"
+    "Grove/Import GraphXR API.md"
   ]
 }

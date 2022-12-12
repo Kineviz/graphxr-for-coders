@@ -6,14 +6,14 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Get started"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Create interactive knowledge graph visualizations with GraphXR, Grove, and GraphXR API."
+LANDING_DESCRIPTION = "Create interactive knowledge graph visualizations in GraphXR"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "Intro"
 # (Optional) Site title on landing page
 LANDING_TITLE = "GraphXR For Coders"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/bgoosmanviz/graphxr-for-coders"
+REPO_URL = "https://github.com/Kineviz/graphxr-for-coders"
 # (Optional) Site title in navbar
 SITE_TITLE = "GraphXR For Coders"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
@@ -21,7 +21,7 @@ SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "/"
 # (Optional) Site Timezone
-TIMEZONE = "Asia/Hong_Kong"
+TIMEZONE = "America/Los_Angeles"
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
