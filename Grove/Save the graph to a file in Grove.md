@@ -1,6 +1,4 @@
-Some examples assume GraphXR API is stored in `api`.
-- latest: `api = Grove.getApi()`
-- pinned: `api = Grove.getApi('0.0.240')`
+**Note: These examples assume you have read [[Import GraphXR API]] first.**
 
 ## Save a graph snapshot to Grove's File Explorer
 ```javascript

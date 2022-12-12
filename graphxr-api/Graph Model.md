@@ -1,5 +1,4 @@
-## Prerequisites
-[[Import GraphXR API]]
+**Note: These examples assume you have read [[Import GraphXR API]] first.**
 
 ## Clear the graph
 ```javascript
