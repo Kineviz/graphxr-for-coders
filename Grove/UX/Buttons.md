@@ -3,7 +3,7 @@
 Grove.Button({
   label: "Hello, world!",
   onClick: () => {
-    console.log('Hello, world!');
+    console.log('Hello, world! 🧙');
   },
 })
 ```
