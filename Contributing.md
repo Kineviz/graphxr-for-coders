@@ -1,3 +1,6 @@
+## `clone` from github
+Clone this repository https://github.com/Kineviz/graphxr-for-coders
+
 ## Use Obsidian to edit
 Use [Obsidian](https://obsidian.md) to edit this Vault. It makes it easy to link pages using the `[[other page]]` syntax.
 
