@@ -31,4 +31,4 @@ api = getApi();
 6. Click the "Hello, world!" button
 7. Expected: a node appears with category "Planet" and property name = "Earth".
 
-[[graphxr-for-coders contributing guide]]
+[[Contributing to this site]]

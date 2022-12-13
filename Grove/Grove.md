@@ -1,6 +1,6 @@
 - [[Import GraphXR API]]
 - Quickly create UX
 	- [[Buttons]]
-	- [[Show a toast]]
+	- [[showToast]]
 - [[Open a project with a Grovebook already loaded]]
 - [[Save the graph to a file in Grove]]
