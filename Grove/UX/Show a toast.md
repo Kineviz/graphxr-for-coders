@@ -1,4 +1,6 @@
+## Screenshot
 ![[Pasted image 20221212200412.png]]
+## Examples
 ```javascript
 Grove.showToast("Hello, world!")
 Grove.showToast("Hello, world!", "success")
