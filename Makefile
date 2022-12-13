@@ -1,4 +1,4 @@
-deploy: commit push
+deploy: commit push done
 
 commit:
 	git add .
@@ -6,6 +6,9 @@ commit:
 
 push:
 	git push -u origin main
+
+done:
+	echo "Deployed GraphXR For Coders to GitHub!"
 
 # This dependency is if you keep your vault in a separate directory.
 # You probably won't run it.
