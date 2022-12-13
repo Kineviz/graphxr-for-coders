@@ -17,10 +17,10 @@ Grove.Button({
       const node = api.makeNode({
         category: "Planet",
         properties: {
-		  name: "Earth",
+          name: "Earth",
         },
       })
-	  graph.addNode(node);
+	    graph.addNode(node);
     })
   },
 })
