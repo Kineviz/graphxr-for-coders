@@ -8,7 +8,7 @@ push:
 	git push -u origin main
 
 done:
-	echo "Deployed $$(pwd) to GitHub! 🚀"
+	echo "Done! 🚀"
 
 # This dependency is if you keep your vault in a separate directory.
 # You probably won't run it.
