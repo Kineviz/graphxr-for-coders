@@ -2,7 +2,7 @@ deploy: commit push
 
 commit:
 	git add .
-	git commit -m "$$(date)"
+	git commit -m "$$(date)" --allow-empty
 
 push:
 	git push -u origin main
