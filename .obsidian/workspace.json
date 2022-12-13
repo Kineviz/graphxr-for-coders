@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f197463d537e4a4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grove/UX/Show a toast.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4e0cb8985b595d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grove/Grove.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grove/Grove.md",
+                "file": "graphxr-api/Graph Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grove/Grove.md",
+                "file": "graphxr-api/Graph Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grove/Grove.md"
+                "file": "graphxr-api/Graph Model.md"
               }
             }
           }
@@ -161,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4e0cb8985b595d0",
+  "active": "698bbe9f52bcb297",
   "lastOpenFiles": [
-    "Grove/Open a project with a Grovebook already loaded.md",
+    "Grove/UX/Show a toast.md",
+    "Grove/UX/Buttons.md",
+    "_resources/Pasted image 20221212200412.png",
     "Grove/Import GraphXR API.md",
     "Grove/Grove.md",
-    "Grove/UX/Show a toast.md",
+    "Grove/Open a project with a Grovebook already loaded.md",
     "Intro.md",
     "graphxr-api/Add Nodes.md",
     "Grove/Save the graph to a file in Grove.md",
-    "GraphXR/What is GraphXR?.md",
-    "graphxr-api/Graph Model.md",
-    "graphxr-api/Color Nodes By Property.md"
+    "GraphXR/What is GraphXR?.md"
   ]
 }
