@@ -20,7 +20,7 @@ Grove.Button({
           name: "Earth",
         },
       })
-	    graph.addNode(node);
+      graph.addNode(node);
     })
   },
 })

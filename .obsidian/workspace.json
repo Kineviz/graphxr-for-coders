@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grove/Open a project with a Grovebook already loaded.md",
+                "file": "Intro.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grove/Open a project with a Grovebook already loaded.md",
+                "file": "Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grove/Open a project with a Grovebook already loaded.md",
+                "file": "Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grove/Open a project with a Grovebook already loaded.md"
+                "file": "Intro.md"
               }
             }
           }
@@ -149,17 +149,27 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "fe3d5779c747170e",
   "lastOpenFiles": [
+    "Grove/Import GraphXR API.md",
+    "Grove/Grove.md",
+    "Grove/Open a project with a Grovebook already loaded.md",
     "Grove/UX/Buttons.md",
     "Contributing.md",
     "Intro.md",
     "Grove/UX/showToast.md",
     "graphxr-api/Graph Model.md",
     "_resources/Pasted image 20221212200412.png",
-    "Grove/Import GraphXR API.md",
-    "Grove/Grove.md",
-    "Grove/Open a project with a Grovebook already loaded.md",
     "graphxr-api/Add Nodes.md"
   ]
 }
