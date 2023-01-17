@@ -23,8 +23,10 @@ schema = api
 
 // Cell 2
 Grove.Div(
+  // Arrays of elements are flattened into the list of children
   Object.entries(schema.categories).map(([category, categorySchema]) =>
     Grove.Div(
+      // Container elements take a variable list of children
       html`<h1>${category}</h1>`,
       Grove.Table(
         Grove.Tr(
@@ -34,21 +36,14 @@ Grove.Div(
         ),
         Object.entries(categorySchema.keys).map(([key, { values }]) =>
           Grove.Tr(
+            // Note that Grove.Td is inferred here
             key,
             Object.entries(values).length,
             Grove.ButtonGroup(
               Grove.AsyncButton(html`<span class="fa fa-plus"></span>`, {
                 label: "Extract to new category",
                 onClick: async () => {
-                  api
-                    .getLayoutGraph()
-                    .applyTransform(
-                      api.extract({
-                        category,
-                        props: [{ name: key, isKey: true }],
-                        newCategory: key,
-                      })
-                    );
+                  // Extract code here
                 },
               })
             )
