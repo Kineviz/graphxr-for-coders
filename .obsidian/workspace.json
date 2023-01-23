@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grove/Animate the camera.md",
+                "file": "Grove/Camera animation.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grove/Display category schema in a table.md",
+                "file": "Grove/Graph editor.md",
                 "mode": "source",
                 "source": true
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grove/Display category schema in a table.md",
+                "file": "Contributing.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grove/Display category schema in a table.md",
+                "file": "Contributing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grove/Display category schema in a table.md",
+                "file": "Contributing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grove/Display category schema in a table.md"
+                "file": "Contributing.md"
               }
             }
           }
@@ -215,17 +215,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "456c2b49c8008c00",
+  "active": "7100b2da29b84dbc",
   "lastOpenFiles": [
+    "Intro.md",
+    "Intro/What is GraphXR API?.md",
+    "graphxr-api/Color nodes by property.md",
+    "graphxr-api/Graph mutation.md",
+    "Grove/Toast notification.md",
     "Grove/Load Grovebook on page load.md",
     "Grove/Import graphxr-api.md",
-    "Grove/Save graph snapshot to Grove.md",
-    "Grove/Icons.md",
-    "Grove/Animate the camera.md",
-    "Grove/Display category schema in a table.md",
-    "Grove/Buttons.md",
-    "Grove/Bootstrap.md",
-    "graphxr-api/Add nodes.md",
-    "graphxr-api/Color nodes by property.md"
+    "Grove/Camera animation.md",
+    "Grove/Graph snapshots.md",
+    "Grove/Graph editor.md"
   ]
 }
