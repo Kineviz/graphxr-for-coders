@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grove/Animate the camera.md",
+                "file": "Grove/Icons.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grove/Animate the camera.md",
+                "file": "Grove/Icons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grove/Animate the camera.md",
+                "file": "Grove/Icons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grove/Animate the camera.md"
+                "file": "Grove/Icons.md"
               }
             }
           }
@@ -217,15 +217,15 @@
   },
   "active": "456c2b49c8008c00",
   "lastOpenFiles": [
+    "Grove/Save a graph snapshot to a file in Grove.md",
+    "Grove/Animate the camera.md",
     "Grove/Display category schema in a table.md",
     "Grove/Buttons.md",
     "Grove/Bootstrap.md",
-    "Grove/Animate the camera.md",
     "Grove/Icons.md",
     "graphxr-api/Add nodes.md",
     "graphxr-api/Color nodes by property.md",
     "graphxr-api/Centrality.md",
-    "graphxr-api/Clear the graph.md",
-    "graphxr-api/GraphXR API.md"
+    "graphxr-api/Clear the graph.md"
   ]
 }
