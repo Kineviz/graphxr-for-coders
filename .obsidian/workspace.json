@@ -62,9 +62,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "594494c291a19710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grove/Icons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "456c2b49c8008c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grove/Animate the camera.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grove/Display category schema in a table.md",
+                "file": "Grove/Animate the camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grove/Display category schema in a table.md",
+                "file": "Grove/Animate the camera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grove/Display category schema in a table.md"
+                "file": "Grove/Animate the camera.md"
               }
             }
           }
@@ -191,17 +215,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c9c0655e69f27b8",
+  "active": "456c2b49c8008c00",
   "lastOpenFiles": [
+    "Grove/Display category schema in a table.md",
+    "Grove/Buttons.md",
+    "Grove/Bootstrap.md",
+    "Grove/Animate the camera.md",
+    "Grove/Icons.md",
     "graphxr-api/Add nodes.md",
     "graphxr-api/Color nodes by property.md",
     "graphxr-api/Centrality.md",
     "graphxr-api/Clear the graph.md",
-    "graphxr-api/GraphXR API.md",
-    "Grove/Animate the camera.md",
-    "Grove/Buttons.md",
-    "Grove/Display category schema in a table.md",
-    "Grove/Import GraphXR API.md",
-    "Grove/Open a project with a Grovebook already loaded.md"
+    "graphxr-api/GraphXR API.md"
   ]
 }
