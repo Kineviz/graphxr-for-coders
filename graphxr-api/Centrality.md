@@ -1,4 +1,4 @@
-**Note: These examples assume you have read [[Import GraphXR API]] first.**
+**Note: These examples assume you have read [[Import graphxr-api]] first.**
 
 ## Compute betweenness score
 ```javascript
