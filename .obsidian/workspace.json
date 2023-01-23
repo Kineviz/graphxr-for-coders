@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contributing.md",
+                "file": "Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contributing.md",
+                "file": "Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contributing.md",
+                "file": "Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contributing.md"
+                "file": "Intro.md"
               }
             }
           }
@@ -217,15 +217,15 @@
   },
   "active": "7100b2da29b84dbc",
   "lastOpenFiles": [
+    "Contributing.md",
     "Intro.md",
-    "Intro/What is GraphXR API?.md",
+    "What is GraphXR API?.md",
     "graphxr-api/Color nodes by property.md",
     "graphxr-api/Graph mutation.md",
     "Grove/Toast notification.md",
     "Grove/Load Grovebook on page load.md",
     "Grove/Import graphxr-api.md",
     "Grove/Camera animation.md",
-    "Grove/Graph snapshots.md",
-    "Grove/Graph editor.md"
+    "Grove/Graph snapshots.md"
   ]
 }
