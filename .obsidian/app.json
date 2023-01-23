@@ -3,5 +3,6 @@
   "useTab": false,
   "tabSize": 2,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./_resources"
+  "attachmentFolderPath": "./_resources",
+  "readableLineLength": false
 }

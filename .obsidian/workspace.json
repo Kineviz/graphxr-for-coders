@@ -35,16 +35,36 @@
             "id": "ef7822359f26bc5d",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b9f0bd40acd84dd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Grove/Import GraphXR API.md",
+                "file": "Grove/Animate the camera.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c9c0655e69f27b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grove/Display category schema in a table.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grove/Import GraphXR API.md",
+                "file": "Grove/Display category schema in a table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grove/Import GraphXR API.md",
+                "file": "Grove/Display category schema in a table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grove/Import GraphXR API.md"
+                "file": "Grove/Display category schema in a table.md"
               }
             }
           }
@@ -171,17 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef7822359f26bc5d",
+  "active": "0c9c0655e69f27b8",
   "lastOpenFiles": [
-    "Grove/Open a project with a Grovebook already loaded.md",
-    "Grove/Grove.md",
+    "graphxr-api/Add nodes.md",
+    "graphxr-api/Color nodes by property.md",
+    "graphxr-api/Centrality.md",
+    "graphxr-api/Clear the graph.md",
+    "graphxr-api/GraphXR API.md",
+    "Grove/Animate the camera.md",
+    "Grove/Buttons.md",
+    "Grove/Display category schema in a table.md",
     "Grove/Import GraphXR API.md",
-    "Grove/UX/HTML.md",
-    "Grove/UX/Buttons.md",
-    "Intro.md",
-    "Contributing.md",
-    "Grove/UX/showToast.md",
-    "graphxr-api/Graph Model.md",
-    "_resources/Pasted image 20221212200412.png"
+    "Grove/Open a project with a Grovebook already loaded.md"
   ]
 }

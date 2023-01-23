@@ -5,4 +5,4 @@ GraphXR API is a JavaScript package hosted on npm.js, whch provides a convenient
 
 ## Index
 - [[Centrality]]
-- [[Graph Model]]
+- [[Clear the graph]]
