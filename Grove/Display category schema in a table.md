@@ -1,3 +1,17 @@
+Cell 1
+```javascript
+getCategoryStyle = (category) =>
+  `color: ${rgbToCss(api.getCategoryColor(category))}`
+```
+
+Cell 2
+```javascript
+function rgbToCss({ r, g, b }) {
+  return `rgb(${r * 255}, ${g * 255}, ${b * 255})`;
+}
+```
+
+Cell 3
 ```javascript
 Grove.Div(
   { className: "schema" },
